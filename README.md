@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 🔐 **Web Hacking**: SQL Injection, XSS, SSRF, LFI/RFI, IDOR, File Upload Bypass
 - 🧠 **CTF Platforms**: Hack The Box, TryHackMe
 
-[![HTB Badge](https://www.hackthebox.com/badge/image/v0wgAV9NlAjo3zAYefodNYS4DVct4QNhGbSHEqDR0X7X3tQ7WZDZxdDYzEuT)](https://app.hackthebox.com/profile/overview)
+[![HTB Badge](https://www.hackthebox.com/badge/image/2342146)](https://app.hackthebox.com/profile/overview)

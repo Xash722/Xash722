@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🛠 Tech Stack
+
+- 💻 **OS/Platform**: Kali Linux, Windows 10/11
+- 📡 **Networking**: TCP/IP, Nmap, Wireshark, netcat
+- 🛠 **Pentesting Tools**: Burp Suite, Metasploit, Gobuster, dirsearch, Nikto, enum4linux, smbclient
+- 🐍 **Scripting**: Python (socket, requests, pwntools), Bash
+- 💣 **Exploit/Reverse**: GDB, pwndbg, MSFvenom, PayloadsAllTheThings
+- 🔐 **Web Hacking**: SQL Injection, XSS, SSRF, LFI/RFI, IDOR, File Upload Bypass
+- 🧠 **CTF Platforms**: Hack The Box, TryHackMe
+
+[![HTB Badge](https://www.hackthebox.com/achievement/badge/2342146/214)](https://app.hackthebox.com/profile/overview)
